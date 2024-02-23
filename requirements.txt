@@ -5,3 +5,6 @@ python-decouple
 python-dotenv
 requests
 gitpython
+aiohttp 
+asyncio
+
